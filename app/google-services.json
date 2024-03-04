@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066558040157",
+    "project_id": "crm-v2-f8ec1",
+    "storage_bucket": "crm-v2-f8ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066558040157:android:cd00fb20fe5704c0d845b4",
+        "android_client_info": {
+          "package_name": "com.serrb.actappgestionclientes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVVMYECKvJbi-M3Aj5jZhyWnYe_1bhsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
